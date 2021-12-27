@@ -1,6 +1,6 @@
 PROJETO SOLAR SYSTEM
 
-Neste projeto foi verificado se o aluno possuia as habilidades para:
+Esse foi o primeiro projeto do módulo de Front-end, nele, foi verificado se o aluno possuia as habilidades para:
 
 Utilizar JSX no React;
 Utilizar corretamente o método render() para renderizar seus componentes;
