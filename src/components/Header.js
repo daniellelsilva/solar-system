@@ -7,7 +7,6 @@ class Header extends React.Component {
         <h1 className="title">Sistema Solar</h1>
         <p>
           <a href="#saiba-mais" className="button"> Saiba Mais </a>
-
         </p>
       </header>
     );
